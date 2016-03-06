@@ -1,3 +1,6 @@
+// Created by Bryan Pakulski 
+// and also maybe a teensy tiny little bit of help from stack overflow
+
 #include <iostream>
 #include <dirent.h>
 #include <stdlib.h>
